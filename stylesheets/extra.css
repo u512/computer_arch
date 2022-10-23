@@ -1,0 +1,15 @@
+/*修改底栏颜色*/
+footer{
+    background-color: hsl(199deg,18%,40%,.9) !important;
+    font-size: 16px;
+}
+footer,
+footer .md-footer-copyright,
+footer .md-footer-copyright a,
+footer .md-footer-copyright__highlight,
+footer .md-footer-copyright__highlight a{
+    color: #ddd!important;
+}
+.md-footer-meta.md-typeset{
+    background-color: unset !important;
+}
